@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-int char;
+int char = "a";
 printf(sizeof(char)):"\n";
 printf("Size of an int:\n");
 printf("Size of a long int:\n");
