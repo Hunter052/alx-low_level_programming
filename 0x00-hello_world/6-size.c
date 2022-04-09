@@ -10,5 +10,5 @@ printf("Size of an int:");
 printf("Size of a long int:");
 printf("Size of a long long int:");
 printf("Size of a float:");
-Return (0);
+return (0);
 }
