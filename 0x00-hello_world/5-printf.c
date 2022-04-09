@@ -1,6 +1,8 @@
 #include <stdio.h>
-/**printf(will print what is in quotes
- *return:0
+/**
+ * printf will print what is in quotes
+ * main - main block
+ *return: 0
 */
 int main(void)
 {
