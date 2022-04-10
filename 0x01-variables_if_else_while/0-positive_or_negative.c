@@ -9,7 +9,7 @@
 *prints "is negative" if number < 0.
 *prints "is zero" if number = 0.
 *Return: Always 0.
-*/ 
+*/
 int main(void)
 {
 	int  n;
