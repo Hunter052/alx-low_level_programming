@@ -5,7 +5,7 @@
  * main - main block
  */
 
-void main(){
+int main(){
 int n
 
 scanf("%d", &n)
