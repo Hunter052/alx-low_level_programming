@@ -1,16 +1,23 @@
 #include <stdio.h>
 
 /**
- * main - main block
- * return always returns 0
+ * main - print numbers of base 16 in lowercase,
+ * followed by a new line
+ * Return: Always 0 (success)
  */
-
 int main(void)
 {
-    int b;
+	int n;
+	int ch;
 
-    for (b = 0; b <= 15; b++)
-        printf ("%d", b);
-    printf ("\n");
-    return (0);
+	for (n = 48; n < 58; n++)
+	{
+		putchar(n);
+	}
+	for (ch = 'a'; ch < 'g'; ch++)
+	{
+		putchar(ch);
+	}
+	putchar('\n');
+	return (0);
 }
