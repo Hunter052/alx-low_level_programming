@@ -3,14 +3,13 @@
 #include <stdlib.h>
 
 /**
-main - Program assign a random number
-to the variable n each time it is executed.
-prints "is positive" if number > 0.
-prints "is negative" if number < 0.
-prints "is zero" if number = 0.
- *
-Return: Always 0.
- */
+*main - Program assign a random number
+*to the variable n each time it is executed.
+*prints "is positive" if number > 0.
+*prints "is negative" if number < 0.
+*prints "is zero" if number = 0.
+*/Return: Always 0.
+ 
 int main(void)
 {
 	int  n;
