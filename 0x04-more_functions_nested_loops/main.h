@@ -1,5 +1,3 @@
-es (12 sloc)  307 Bytes
-   
 int _putchar(char c);
 int _isupper(int c);
 int _isdigit(int c);
