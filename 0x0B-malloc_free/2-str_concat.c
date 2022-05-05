@@ -1,10 +1,11 @@
-#include <stdio.h>
+#include <stdlib.h>
 #include <stdio.h>
 #include "main.h"
 
-/** _strlen: finds length of a string
- * @s: string said
- * Return - int
+/**
+ * _strlen - find length of a string
+ * @s: string
+ * Return: int
  */
 
 int _strlen(char *s)
@@ -16,9 +17,9 @@ return (size);
 }
 
 /**
- * str_concat: it concatenates two strings.
- * @s1: string number 1
- * @s2: string number 2
+ * str_concat - concatenates two strings
+ * @s1: string 1
+ * @s2: string 2
  * Return: pointer
  */
 
